@@ -3,7 +3,3 @@ I'm excited to showcase my SQL projects, demonstrating my abilities and knowledg
 
 List of Project:
       1. Covid Dataset Analysis.
-              => COVID-19 Dataset Exploration: Utilized a comprehensive COVID-19 dataset spanning from January 2020 to January 2024 to delve into the dynamics of the pandemic. Conducted extensive data exploration to gain insights into the spread, trends, and impacts of the                  virus over time.
-              => SQL Query Proficiency Showcase: Demonstrated adeptness in SQL querying by leveraging MSSQL to perform in-depth analysis on the COVID-19 dataset. Crafted complex SQL queries to extract relevant information, analyze trends, and derive meaningful insights                      crucial for understanding the pandemic's progression.
-              => Data Visualization with Tableau: Employed Tableau to create insightful visualizations that vividly depict the findings from the COVID-19 dataset exploration. Designed dynamic dashboards and interactive visual representations to communicate key insights                      effectively to stakeholders and facilitate data-driven decision-making.
-              => Project Highlights: This project highlights my proficiency in SQL querying, data exploration, and visualization techniques. It showcases my ability to leverage tools like MSSQL and Tableau to extract, analyze, and visualize complex datasets, thereby                         demonstrating my capabilities in handling real-world data analytics projects with a focus on showcasing the power of SQL queries.
