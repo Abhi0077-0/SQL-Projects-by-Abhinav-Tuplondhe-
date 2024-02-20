@@ -2,4 +2,4 @@ I am Abhinav Tuplondhe, an aspiring professional in the field of data analytics.
 I'm excited to showcase my SQL projects, demonstrating my abilities and knowledge in SQL. Let's dive into the projects!
 
 List of Project:
-      1. Covid Dataset Analysis | 2. Nashville Housing Project | 3. AmazonWebScraping_Project | 4. AutomatedEmailSender_Project
+      1. Covid Dataset Analysis | 2. Nashville Housing Project | 3. AmazonWebScraping_Project | 4. AutomatedEmailSender_Project | 5. Perry_The_PersonalAssitant
